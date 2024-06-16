@@ -5,11 +5,6 @@
 	"Description": "",
 	"Modules": [
         {
-            "Name": "YourProjectName",
-            "Type": "Runtime",
-            "LoadingPhase": "Default"
-        },
-        {
             "Name": "OVRPlatform",
             "Type": "Runtime",
             "LoadingPhase": "Default"
