@@ -3,6 +3,18 @@
 	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+        {
+            "Name": "YourProjectName",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        },
+        {
+            "Name": "OVRPlatform",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ],
 	"Plugins": [
 		{
 			"Name": "ResonanceAudio",
@@ -43,6 +55,7 @@
 		"PS4",
 		"PS5",
 		"Windows",
+		"OVRPlatform",
 		"WindowsNoEditor",
 		"Switch",
 		"XboxOne",
