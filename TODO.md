@@ -5,3 +5,5 @@ https://nvidia.ldlc.com/fr-fr/Cart
 generez la clé pour l'importer sur le meta store
 
 changer le logo de l'application
+
+adapter le fog pour quil puisse se faire dans le casque
