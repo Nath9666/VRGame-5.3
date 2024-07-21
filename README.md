@@ -21,6 +21,14 @@ pour cela, il m'a fallu compliler l'application garce à ce lien:
 
 Ensuite il faut exporter l'application pour qu'elle soit utilisable sur le casque VR, grace a meta Quest develloper hub.
 
+### Phase 2.1 : test de l'application
+
+L'application fonction meme si l'effet de fog reste pas disponible pour le moment.
+
+2 possibilité:
+- on peut mettre le fog sur le casque
+- on met des chemins lumineux dans le but d'imiter la lumiere des faiseaux laser
+
 ### Comment contribuer
 
 Si vous souhaitez contribuer à ce projet, veuillez suivre les étapes suivantes :
