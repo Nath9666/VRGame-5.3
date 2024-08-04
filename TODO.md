@@ -12,5 +12,11 @@ adapter le fog pour quil puisse se faire dans le casque
 - [X] mettre le parametre de la fumer accecible depuis le BP
 - [X] les lazers
   - [ ] inclure les lazers dans le fulguro beam
+  - [ ] mettre des event dispatcher dans le fulgurobeam
 - [ ] les rectangles de led
-- [ ] repositionner la fummer artificiel
+
+Bonus: application sur ordi pour mettre a jour l'interieur
+
+* [ ] le site
+* [ ] la communication avec unreal
+* [ ] la base de données
