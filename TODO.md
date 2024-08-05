@@ -11,8 +11,8 @@ adapter le fog pour quil puisse se faire dans le casque
 - [X] appliquer la couleur des light a la couleur du fog
 - [X] mettre le parametre de la fumer accecible depuis le BP
 - [X] les lazers
-  - [ ] inclure les lazers dans le fulguro beam
-  - [ ] mettre des event dispatcher dans le fulgurobeam
+  - [X] inclure les lazers dans le fulguro beam
+  - [X] passer les parametres dans le spawn directement
 - [ ] les rectangles de led
 
 Bonus: application sur ordi pour mettre a jour l'interieur
