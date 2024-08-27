@@ -13,7 +13,9 @@ adapter le fog pour quil puisse se faire dans le casque
 - [X] les lazers
   - [X] inclure les lazers dans le fulguro beam
   - [X] passer les parametres dans le spawn directement
-- [ ] les rectangles de led
+- [X] les rectangles de led
+- [ ] faire des animations avec les fulgurobeam
+- [ ] telecommander les filguro grace au paneau de debut
 
 Bonus: application sur ordi pour mettre a jour l'interieur
 
